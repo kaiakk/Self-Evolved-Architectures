@@ -15,3 +15,6 @@ https://youtu.be/_xqSMwHUzbo
 
 DATA FLOW DIAGRAM
 ![Experiment DataFlow Diagram](https://user-images.githubusercontent.com/34107769/192790912-67a31d27-94e1-4a1a-9756-8309cf69ef2f.png)
+![Sound Shape Space presentation PhD 6_2021_KK_1 001](https://user-images.githubusercontent.com/34107769/192803072-21bb36eb-d2d3-4873-9d60-4b323ca72831.jpeg)
+![Sound Shape Space presentation PhD 6_2021_KK 002](https://user-images.githubusercontent.com/34107769/192803217-92727d4b-f660-496e-867e-e082d7085101.jpeg)
+![Sound Shape Space presentation PhD 6_2021_KK 004](https://user-images.githubusercontent.com/34107769/192803111-149f2f7a-c6f9-447c-ad23-2a7b652e299e.jpeg)
