@@ -1,3 +1,5 @@
 # Self-Evolved-Architectures
 computer science inspired methods for architectural adaptation to environmental changes
-![Experiment Workflow Diagram](https://user-images.githubusercontent.com/34107769/192787195-2a50d919-8e4c-4b6a-a593-c4a8fd1561f6.png)
+
+[EXPERIMENT DIAGRAM.ai.pdf](https://github.com/kaiakk/Self-Evolved-Architectures/files/9665325/EXPERIMENT.DIAGRAM.ai.pdf)
+![Multidimensional Data Representation_II](https://user-images.githubusercontent.com/34107769/192790069-32985ace-7fe5-4665-8100-40716a4524ab.png)
